@@ -4,6 +4,9 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <AssemblyName>xpInterop</AssemblyName>
     <RootNamespace>xpInterop</RootNamespace>
+    <Authors>rkttu</Authors>
+    <Description>Central Library for xpInterop family</Description>
+    <Copyright>(c) 2020, rkttu.com, All rights reserved.</Copyright>
   </PropertyGroup>
 
 </Project>

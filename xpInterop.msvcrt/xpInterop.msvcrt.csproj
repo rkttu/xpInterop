@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>xpInterop.msvcrt</AssemblyName>
+    <RootNamespace>xpInterop</RootNamespace>
+    <Authors>rkttu</Authors>
+    <Description>Visual C++ Runtime xpInterop</Description>
+    <Copyright>(c) 2020, rkttu.com, All rights reserved.</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
